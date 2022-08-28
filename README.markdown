@@ -16,10 +16,10 @@
 
 <h1> Introduction</h1> 
 <b> Experience Technology at JP Morgan Chase & Co</b>
-<p>Try out what real work is like in the technology team at JP Morgan Chase & Co. Fast track to the tech team with your work.</p>
+
 
 <h2 id="task"> Module 1 Task Overview </h2>
-<p>Interface with a stock price data feed and set up your system for analysis of the data</p>
+<p>Interface with a stock price data feed and set up your system for analysis of the data. The trader would like to be able to monitor two historically correlated stocks and be able to visualize when the correlation between the two weakens (i.e. one stock moves proportionally more than the historical correlation would imply). This could indicate a potential trade strategy to simultaneously buy the relatively underperforming stock and sell the relatively outperforming stock. Assuming the two prices subsequently converge, the trade should be profitable.</p>
 <p> <b>Aim:</b> We want to process the data feed of stock A and stock B’s price to enable us to analyse when trading for the stock should occur.</p>
 
 <ol>
